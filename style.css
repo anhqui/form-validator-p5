@@ -4,10 +4,10 @@
     --success-color: #2ecc71;
     --error-color: #e74c3c;
 }
+
 *{
     box-sizing: border-box;
 }
-
 
 body{
     background-color: #f9fafb;
